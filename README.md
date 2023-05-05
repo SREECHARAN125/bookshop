@@ -1,6 +1,7 @@
 # Getting Started
 
 Welcome to your new project.
+This is my beginning to CAPM projects
 
 It contains these folders and files, following our recommended project layout:
 
